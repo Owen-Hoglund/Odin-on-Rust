@@ -1,0 +1,1 @@
+Simple Recipe app for the odin project curriculum.
